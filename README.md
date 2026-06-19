@@ -5,8 +5,21 @@
 
 ⚠️ **IMPORTANT**
 Before you start! If you haven't already, you need to get your headset and PC ready for sideloading.
-<BR>
-[![DOWNLOAD SIDELOADING](https://img.shields.io/badge/SETUP FOR SIDELOADING-red)](https://github.com/Crazy-Scamp/Setup-For-Sideloading)
+
+<!-- Default GitHub-style badge -->
+[![Setup For Sideloading](https://img.shields.io/badge/Setup%20For-Sideloading-blue?style=flat-square)](https://github.com/Crazy-Scamp/Setup-For-Sideloading)
+
+<!-- With GitHub logo -->
+[![Setup For Sideloading](https://img.shields.io/badge/GitHub-Setup%20For%20Sideloading-181717?style=flat-square&logo=github)](https://github.com/Crazy-Scamp/Setup-For-Sideloading)
+
+<!-- Bright green style -->
+[![Setup For Sideloading](https://img.shields.io/badge/Setup%20For-Sideloading-brightgreen?style=flat-square)](https://github.com/Crazy-Scamp/Setup-For-Sideloading)
+
+<!-- Orange style -->
+[![Setup For Sideloading](https://img.shields.io/badge/Setup%20For-Sideloading-orange?style=flat-square)](https://github.com/Crazy-Scamp/Setup-For-Sideloading)
+
+<!-- Red style -->
+[![Setup For Sideloading](https://img.shields.io/badge/Setup%20For-Sideloading-red?style=flat-square)](https://github.com/Crazy-Scamp/Setup-For-Sideloading)
 
 ---
 
