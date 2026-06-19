@@ -42,9 +42,28 @@ If you haven't already, you need to get your headset and PC ready for sideloadin
 3. Select **PROVIDE PUBLIC CONFIG**
 4. Browse and select the `public.json` file you just placed
 5. Rookie will now connect to the updated server/database
+6. Shortcut: Right-click `AndroidSideloader.exe` → **Create Shortcut** → move to Desktop
 
+---
+
+## 📦 HOW TO USE ROOKIE
+1. Connect Headset
+2. Allow USB Debugging Prompt
+3. Check "Always allow"
+4. Run `Rookie` Rookie will auto-detect device
+5. Browse Search for a Game
+6. Double Click a Game and it will start to download and install
+   
+---
 
 # ⚠️ NOTES
 - Rookie uses its own independent database
 - Future updates: Replace `public.json` with the new version
-- Shortcut: Right-click `AndroidSideloader.exe` → **Create Shortcut** → move to Desktop
+
+---
+
+# ⚠️ UNKNOWN SOURCES
+- Where do I find my Games?
+
+<!-- Blue style -->
+[![Unkown Sources](https://img.shields.io/badge/Setup%20For-Sideloading-green?style=flat-square)]([https://github.com/Crazy-Scamp/Setup-For-Sideloading](https://github.com/Crazy-Scamp/Finding-Unknown-Sources))
