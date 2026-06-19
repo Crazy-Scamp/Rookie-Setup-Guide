@@ -5,7 +5,7 @@
 
 ⚠️ **IMPORTANT**
 Before you start! If you haven't already, you need to get your headset and PC ready for sideloading.
-(https://img.shields.io/badge/DOWNLOAD-JSON-blue)](https://github.com/Crazy-Scamp/Setup-For-Sideloading)
+[![SETUP FOR SIDELOADING](https://img.shields.io/badge/DOWNLOAD-JSON-blue)](https://github.com/Crazy-Scamp/Setup-For-Sideloading)
 
 ---
 
