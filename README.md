@@ -48,10 +48,10 @@ If you haven't already, you need to get your headset and PC ready for sideloadin
 
 ## 📦 HOW TO USE ROOKIE
 1. Connect Headset
-2. Allow USB Debugging Prompt
-3. Check "Always allow"
+2. Allow `USB Debugging Prompt`
+3. Check `Always allow`
 4. Run `Rookie` Rookie will auto-detect device
-5. Browse Search for a Game
+5. Browse / Search for a Game
 6. Double Click a Game and it will start to download and install
    
 ---
@@ -65,5 +65,4 @@ If you haven't already, you need to get your headset and PC ready for sideloadin
 # ⚠️ UNKNOWN SOURCES
 - Where do I find my Games?
 
-<!-- Blue style -->
-[![Unkown Sources](https://img.shields.io/badge/Setup%20For-Sideloading-green?style=flat-square)]([https://github.com/Crazy-Scamp/Setup-For-Sideloading](https://github.com/Crazy-Scamp/Finding-Unknown-Sources))
+[![DOWNLOAD ROOKIE](https://img.shields.io/badge/UNKNOWN SOURCES-green)](https://github.com/Crazy-Scamp/Finding-Unknown-Sources)
