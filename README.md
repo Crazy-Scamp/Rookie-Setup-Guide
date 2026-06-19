@@ -29,7 +29,7 @@ If you haven't already, you need to get your headset and PC ready for sideloadin
 
 
 
-> **NOTES:**
+> ## NOTES:
 > - You may get browser/antivirus warnings — these are false positives.
 > - Save directly into your excluded folder `C:\RSL\Rookie`
 > - If blocked: Right-click download → **Save Link As** → choose `C:\RSL\Rookie`
