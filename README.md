@@ -16,6 +16,9 @@ Before you start! If you haven't already, you need to get your headset and PC re
 
 ## 📥 DOWNLOAD FILES
 
+https://img.shields.io/badge/DOWNLOAD%20ROOKIE?style=flat-square&label=DOWNLOAD%20ROOKIE&labelColor=black&color=blue&link=https%3A%2F%2Fgithub.com%2Fnerdunit%2Fandroidsideloader%2Freleases%2Fdownload%2Fv3.4%2FAndroidSideloader.exe
+
+
 ![Static Badge](https://img.shields.io/badge/DOWNLOAD ROOKIE-black?style=for-the-badge&link=https://github.com/nerdunit/androidsideloader/releases/download/v3.4/AndroidSideloader.exe)
 
 <img alt="Static Badge" src="https://img.shields.io/badge/DOWNLOAD ROOKIE-black?style=for-the-badge&link=https://www.mediafire.com/file/hvjf7dabq82xbdh/public.json/file">
