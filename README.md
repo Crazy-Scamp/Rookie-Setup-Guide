@@ -6,6 +6,9 @@
 ⚠️ **IMPORTANT**
 Before you start! If you haven't already, you need to get your headset and PC ready for sideloading.
 
+<img width="300" height="300" alt="GitHub Badge Link" src="https://github.com/user-attachments/assets/6eb1ebdc-3170-40d6-8f1d-5368fc514210" />
+
+
 <!-- Default GitHub-style badge -->
 [![Setup For Sideloading](https://img.shields.io/badge/Setup%20For-Sideloading-blue?style=flat-square)](https://github.com/Crazy-Scamp/Setup-For-Sideloading)
 
