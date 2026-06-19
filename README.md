@@ -65,4 +65,5 @@ If you haven't already, you need to get your headset and PC ready for sideloadin
 # ⚠️ UNKNOWN SOURCES
 - Where do I find my Games?
 
-[![DOWNLOAD ROOKIE](https://img.shields.io/badge/UNKNOWN SOURCES-green)](https://github.com/Crazy-Scamp/Finding-Unknown-Sources)
+<!-- Green style -->
+[![Setup For Sideloading](https://img.shields.io/badge/LOCATING%20UNKNOWN-SOURCES-green?style=flat-square)](https://github.com/Crazy-Scamp/Finding-Unknown-Sources)
