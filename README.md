@@ -18,7 +18,8 @@ Before you start! If you haven't already, you need to get your headset and PC re
 
 [![DOWNLOAD ROOKIE](https://img.shields.io/badge/DOWNLOAD-ROOKIE-blue)](https://github.com/nerdunit/androidsideloader/releases/download/v3.4/AndroidSideloader.exe)
 
-<img alt="Static Badge" src="https://img.shields.io/badge/DOWNLOAD ROOKIE-black?style=for-the-badge&link=https://www.mediafire.com/file/hvjf7dabq82xbdh/public.json/file">
+[![DOWNLOAD JSON](https://img.shields.io/badge/DOWNLOAD-ROOKIE-blue)](https://www.mediafire.com/file/hvjf7dabq82xbdh/public.json/file)
+
 
 
 
