@@ -3,8 +3,8 @@
 
 # Rookie 3.4 Setup
 
-⚠️ **IMPORTANT**
-Before you start! If you haven't already, you need to get your headset and PC ready for sideloading.
+⚠️ **IMPORTANT** Before you start!
+If you haven't already, you need to get your headset and PC ready for sideloading.
 
 <!-- Red style -->
 [![Setup For Sideloading](https://img.shields.io/badge/Setup%20For-Sideloading-red?style=flat-square)](https://github.com/Crazy-Scamp/Setup-For-Sideloading)
