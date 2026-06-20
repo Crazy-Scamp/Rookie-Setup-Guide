@@ -1,5 +1,5 @@
 
-<# Rookie 3.4 Setup
+# Rookie 3.4 Setup
 
 ⚠️ **IMPORTANT** Before you start!
 If you haven't already, you need to get your headset and PC ready for sideloading.
