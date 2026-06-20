@@ -1,7 +1,5 @@
 
-<img width="349" height="415" alt="twckyldny22g1" src="https://github.com/user-attachments/assets/7847208f-8e80-415a-a6ba-533990781948" />
-
-# Rookie 3.4 Setup
+<# Rookie 3.4 Setup
 
 ⚠️ **IMPORTANT** Before you start!
 If you haven't already, you need to get your headset and PC ready for sideloading.
