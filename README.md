@@ -46,12 +46,12 @@ If you haven't already, you need to get your headset and PC ready for sideloadin
 ---
 
 ## 📦 HOW TO USE ROOKIE
-1. Connect Headset
-2. Allow `USB Debugging Prompt`
-3. Check `Always allow`
-4. Run `Rookie` Rookie will auto-detect device
+1. Connect Headset To Computer
+2. Put Heaset on
+3. Allow `USB Debugging` and Check `Always allow` inside Headset
+4. Run `Rookie` - Rookie will auto-detect device
 5. Browse / Search for a Game
-6. Double Click a Game and it will start to download and install
+6. Choose a Game - Rookie will download and install
    
 ---
 
