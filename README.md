@@ -17,6 +17,7 @@ If you haven't already, you need to get your headset and PC ready for sideloadin
 5. Add **Folder** exclusion: `C:\RSL\Rookie`
 6. Click **APPLY**
 
+---
 
 ## 📥 DOWNLOAD FILES
 
