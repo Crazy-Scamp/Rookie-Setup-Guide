@@ -52,12 +52,6 @@ If you haven't already, you need to get your headset and PC ready for sideloadin
 4. Run `Rookie` - Rookie will auto-detect device
 5. Browse / Search for a Game
 6. Choose a Game - Rookie will download and install
-   
----
-
-# ⚠️ NOTES
-- Rookie uses its own independent database
-- Future updates: Replace `public.json` with the new version
 
 ---
 
@@ -66,3 +60,11 @@ If you haven't already, you need to get your headset and PC ready for sideloadin
 
 <!-- Green style -->
 [![Setup For Sideloading](https://img.shields.io/badge/LOCATING%20UNKNOWN-SOURCES-green?style=flat-square)](https://github.com/Crazy-Scamp/Finding-Unknown-Sources)
+   
+---
+
+# ⚠️ NOTES
+- Rookie uses its own independent database
+- Future updates: Replace `public.json` with the new version
+
+
