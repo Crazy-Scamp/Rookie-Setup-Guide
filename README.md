@@ -21,17 +21,14 @@ If you haven't already, you need to get your headset and PC ready for sideloadin
 
 ## 📥 DOWNLOAD FILES
 
-[![DOWNLOAD ROOKIE](https://img.shields.io/badge/DOWNLOAD-ROOKIE-blue)](https://github.com/nerdunit/androidsideloader/releases/download/v3.4/AndroidSideloader.exe)
-
-[![DOWNLOAD JSON](https://img.shields.io/badge/DOWNLOAD-JSON-blue)](https://github.com/Crazy-Scamp/Rookie-Setup-Guide/releases/download/JSON/public.json)
-
-
-
-
 > ## NOTES:
 > - You may get browser/antivirus warnings — these are false positives.
 > - Save directly into your excluded folder `C:\RSL\Rookie`
 > - If blocked: Right-click download → **Save Link As** → choose `C:\RSL\Rookie`
+
+[![DOWNLOAD ROOKIE](https://img.shields.io/badge/DOWNLOAD-ROOKIE-blue)](https://github.com/nerdunit/androidsideloader/releases/download/v3.4/AndroidSideloader.exe)
+
+[![DOWNLOAD JSON](https://img.shields.io/badge/DOWNLOAD-JSON-blue)](https://github.com/Crazy-Scamp/Rookie-Setup-Guide/releases/download/JSON/public.json)
 
 ---
 
