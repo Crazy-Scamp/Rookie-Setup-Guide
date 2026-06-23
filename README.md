@@ -72,6 +72,7 @@ If you haven't already, you need to get your headset and PC ready for sideloadin
 
 ## 📝 NOTES
 - Rookie uses its own independent database
-- Future updates: Replace `public.json` with the new version
+
+- **Future updates:** Replace `public.json` with the new version
 
 
