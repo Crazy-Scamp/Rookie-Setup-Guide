@@ -56,8 +56,9 @@ If you haven't already, you need to get your headset and PC ready for sideloadin
 
 **If you recieve this error use a VPN**
 
-- > Install a `VPN`
-  [![VR CyberDeck](https://img.shields.io/badge/ProtonVPN-Download-00e5ff?style=for-the-badge&logo=github&logoColor=000&labelColor=001)](https://protonvpn.com/free-vpn?srsltid=AfmBOoooTAhCOj6S4jBst4twrWfUbuqmssgFSI5gQ-TY-6cRpECxuto3)  **(FREE)**
+- > **Free `VPN` to use**
+  
+  [![VR CyberDeck](https://img.shields.io/badge/ProtonVPN-Download-00e5ff?style=for-the-badge&logo=github&logoColor=000&labelColor=001)](https://protonvpn.com/free-vpn?srsltid=AfmBOoooTAhCOj6S4jBst4twrWfUbuqmssgFSI5gQ-TY-6cRpECxuto3)
 
 ---
 
