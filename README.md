@@ -42,7 +42,7 @@ If you haven't already, you need to get your headset and PC ready for sideloadin
 
 ---
 
-## 📦 HOW TO USE ROOKIE
+## ⁉️ HOW TO USE ROOKIE
 1. Connect Headset To Computer
 2. Put Heaset on
 3. Allow `USB Debugging` and Check `Always allow` inside Headset
@@ -52,7 +52,7 @@ If you haven't already, you need to get your headset and PC ready for sideloadin
 
 ---
 
-# ⚠️ UNKNOWN SOURCES
+## ⚠️ UNKNOWN SOURCES
 - **Where do I find my Games?**
 
 <!-- Green style -->
@@ -60,7 +60,7 @@ If you haven't already, you need to get your headset and PC ready for sideloadin
    
 ---
 
-# ⚠️ NOTES
+## 📝 NOTES
 - Rookie uses its own independent database
 - Future updates: Replace `public.json` with the new version
 
