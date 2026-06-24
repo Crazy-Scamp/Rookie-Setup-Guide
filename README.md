@@ -1,6 +1,5 @@
 
 # Rookie 3.4 Setup
-![](https://komarev.com/ghpvc/?username=Crazy-Scamp-github&color=green)
 
 ## ⚠️ IMPORTANT Before you start!
 If you haven't already, you need to get your headset and PC ready for sideloading.
