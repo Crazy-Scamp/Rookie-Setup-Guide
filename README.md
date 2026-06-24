@@ -1,5 +1,6 @@
 
-# Rookie 3.4 Setup  ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge&left_color=red&right_color=green)
+# Rookie 3.4 Setup  
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge&left_color=red&right_color=green)
 
 ## ⚠️ IMPORTANT Before you start!
 If you haven't already, you need to get your headset and PC ready for sideloading.
