@@ -64,8 +64,7 @@ If you haven't already, you need to get your headset and PC ready for sideloadin
 
 <img width="54" height="54" alt="logo1" src="https://github.com/user-attachments/assets/7e115350-816f-488a-bbbd-8dd130c8c8d3" />
 
-<img alt="Static Badge" src="https://img.shields.io/badge/VR%20CyberDeck%20Setup?link=https%3A%2F%2Fgithub.com%2FCrazy-Scamp%2FVR-CyberDeck-Setup">
-
+[![DOWNLOAD ROOKIE](https://img.shields.io/badge/DOWNLOAD-VR.CyberDeck-green)](https://github.com/Crazy-Scamp/VR-CyberDeck-Setup)
 
 ---
 
