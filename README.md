@@ -63,9 +63,9 @@ If you haven't already, you need to get your headset and PC ready for sideloadin
 ---
 
 <img width="54" height="54" alt="logo1" src="https://github.com/user-attachments/assets/7e115350-816f-488a-bbbd-8dd130c8c8d3" />
-- > Problems getting Rookie to work?
-- > TRY <!-- Red style -->
-[![Setup For Sideloading](https://img.shields.io/badge/Setup%20For-Sideloading-red?style=flat-square)]([https://github.com/Crazy-Scamp/Setup-For-Sideloading)
+
+[![VR CyberDeck](https://img.shields.io/badge/VR-CYBERDECK-00e5ff?style=for-the-badge&logo=github&logoColor=000&labelColor=001)](https://github.com/Crazy-Scamp/VR-CyberDeck-Setup)
+
 ---
 
 ## ⚠️ UNKNOWN SOURCES
