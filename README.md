@@ -1,6 +1,5 @@
 
 # Rookie 3.4 Setup  
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Crazy-Scamp.VISTORS-badge&left_color=blue&right_color=white)
 
 ## ⚠️ IMPORTANT Before you start!
 If you haven't already, you need to get your headset and PC ready for sideloading.
@@ -82,5 +81,8 @@ If you haven't already, you need to get your headset and PC ready for sideloadin
 - Rookie uses its own independent database
 
 - **Future updates:** Replace `public.json` with the new version
+
+---
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Crazy-Scamp.VISTORS-badge&left_color=blue&right_color=white)
 
 
