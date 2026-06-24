@@ -1,6 +1,6 @@
 
 # Rookie 3.4 Setup  
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Crazy-Scamp.visitor-badge&left_color=blue&right_color=white)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Crazy-Scamp.VISTORS-badge&left_color=blue&right_color=white)
 
 ## ⚠️ IMPORTANT Before you start!
 If you haven't already, you need to get your headset and PC ready for sideloading.
