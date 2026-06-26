@@ -56,7 +56,7 @@ If you haven't already, you need to get your headset and PC ready for sideloadin
 
 **If you recieve this error use a VPN**
 
-- > **Free `VPN` to use**
+- > **Downlosd a Free `VPN` to use**
 
   [![Get](https://img.shields.io/badge/Get-ProtonVPN-000000?style=for-the-badge&labelColor=007ec6)](https://protonvpn.com/free-vpn?srsltid=AfmBOoohIWuiz0MPqyuL-F8J8_v8GT-4KSMB8ZXmQA28gM3ZXPUc7L6C)
 
