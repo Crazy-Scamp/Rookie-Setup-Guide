@@ -86,6 +86,5 @@ If you haven't already, you need to get your headset and PC ready for sideloadin
 - **Future updates:** Replace `public.json` with the new version
 
 ---
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Crazy-Scamp.VISTORS-badge&left_color=blue&right_color=yellow)
-
+<a href="https://hits.sh/github.com/Crazy-Scamp/Rookie-Setup-Guide/"><img alt="Hits" src="https://hits.sh/github.com/Crazy-Scamp/Rookie-Setup-Guide.svg?style=flat-square&label=Page%20Visits&extraCount=1153&color=007ec6&labelColor=44cc11"/></a>
 
