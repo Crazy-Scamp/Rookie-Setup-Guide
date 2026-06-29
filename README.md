@@ -53,7 +53,7 @@ If you haven't already, you need to get your headset and PC ready for sideloadin
 ---
 
 ## ❌️ Connection Error
-**Gamelist + Error 500**
+**Gamelist + Error 500** 👈
 
 **If you recieve this error use a VPN**
 
