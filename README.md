@@ -86,6 +86,6 @@ If you haven't already, you need to get your headset and PC ready for sideloadin
 - **Future updates:** Replace `public.json` with the new version
 
 ---
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Crazy-Scamp.VISTORS-badge&left_color=blue&right_color=white)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Crazy-Scamp.VISTORS-badge&left_color=blue&right_color=yellow)
 
 
